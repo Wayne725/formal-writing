@@ -7,8 +7,10 @@ Correct the claim. Keep essential facts. Deliver the finished text.
 ## What it does
 
 - Writes in the language and format requested by the user.
+- Prefers affirmative descriptions of methods, findings, and next steps.
 - Replaces unsupported claims with statements the evidence supports.
 - Embeds sample scope, observation periods, and metric definitions in the methods or findings.
+- Places study-specific limitations and risks once, where the document calls for them, with follow-up or mitigation.
 - Removes boilerplate disclaimers, defensive wording, and unsolicited editing explanations.
 - Keeps headings aligned with the actual content.
 - Reviews the draft silently and returns the finished deliverable.
