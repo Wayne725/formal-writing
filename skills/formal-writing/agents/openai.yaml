@@ -1,0 +1,6 @@
+interface:
+  display_name: "Formal Writing"
+  short_description: "Submission-ready writing without boilerplate or edit notes"
+
+policy:
+  allow_implicit_invocation: true
